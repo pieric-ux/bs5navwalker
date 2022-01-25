@@ -28,5 +28,5 @@ Create your nav menu somewhere in your theme.
            'walker' => new bs5Navwalker()
             ]);
         ?>
-    </nav>
+</nav>
 ```
